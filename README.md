@@ -10,15 +10,6 @@ Treinamento de HTML e CSS.
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="License" src="">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -31,3 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 .O projeto é um desenvolvimento de um layout de landing pages seguindo padrão de fonts e cores.
 
 ## 🔖 Layout
+
+
